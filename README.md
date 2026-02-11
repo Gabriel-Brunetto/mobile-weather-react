@@ -11,8 +11,6 @@ O app exibe:
 
 ## 📂 Estrutura do Projeto
 
-## 📂 Estrutura do Projeto
-
 /WeatherApp  
 │  
 ├─ /components  
